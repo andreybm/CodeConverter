@@ -3,12 +3,7 @@
 Esta es una guía para instalar el proyecto \textit{CodeConverter} en el IDE Visual Studio.
 
 
-Para agregar la extensión de Visual Studio a nuestro IDE, se debe de descargar desde el Visual Studio Market Place en el siguiente sitio web https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter como se muestra en la siguiente imagen:
-
-<p>
-<img title="" alt="" src="https://github.com/icsharpcode/CodeConverter/raw/master/.github/img/vsmarketplace.PNG"/>
-</p>
-
+Para agregar la extensión de Visual Studio a nuestro IDE, se debe de descargar desde el Visual Studio Market Place en el siguiente sitio web https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter.
 
 Cabe destacar que es necesario tener instalado como mínimo versión 15.7 de Visual Studio 2017.
 
@@ -21,7 +16,4 @@ Posteriormente se abre la solución en Visual Studio 2017 o superior y se realiz
 2. Open the solution in Visual Studio 2017+
 3. To run the website, set CodeConverter.Web as the startup project
 4. To run the Visual Studio extension, set Vsix as the startup project
-   * A new instance of Visual Studio will open with the extension installed
-
-
-
+   * A new instance of Visual Studio will open with the extension installed.
