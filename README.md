@@ -5,6 +5,12 @@ Esta es una guía para instalar el proyecto CodeConverter en el IDE Visual Studi
 
 Para agregar la extensión de Visual Studio a nuestro IDE, se debe de descargar desde el Visual Studio Market Place en el siguiente sitio web https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter.
 
+
+<p>
+<img title="Selected text can be converted" alt="Selected text conversion context menu" src="https://github.com/andreybm/CodeConverter/blob/master/.github/img/vsmarketplace.PNG" />
+</p>
+
+
 Cabe destacar que es necesario tener instalado como mínimo versión 15.7 de Visual Studio 2017.
 
 Posteriormente se abre la solución en Visual Studio 2017 o superior y se realizan las conversiones especificadas en el wiki.
