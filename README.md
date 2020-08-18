@@ -12,7 +12,7 @@ Esta es una guía para instalar el proyecto \textit{CodeConverter} en el IDE Vis
 Para agregar la extensión de Visual Studio a nuestro IDE, se debe de descargar desde el Visual Studio Market Place en el siguiente sitio web https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter como se muestra en la siguiente imagen:
 
 <p>
-<img title="Selected text can be converted" alt="Selected text conversion context menu" src="https://github.com/icsharpcode/CodeConverter/raw/master/.github/img/vbToCsSelection.png" />
+<img title="Selected text can be converted" alt="Selected text conversion context menu" src="https://github.com/icsharpcode/CodeConverter/raw/master/.github/img/vsmarketplace.PNG" />
 </p>
 
 
