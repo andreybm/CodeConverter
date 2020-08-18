@@ -12,8 +12,8 @@ Posteriormente se abre la solución en Visual Studio 2017 o superior y se realiz
 
 
 ## Building/running from source
-1. Ensure you have [.NET Core SDK 3.1+](https://dotnet.microsoft.com/download/dotnet-core/3.1)
-2. Open the solution in Visual Studio 2017+
-3. To run the website, set CodeConverter.Web as the startup project
-4. To run the Visual Studio extension, set Vsix as the startup project
-   * A new instance of Visual Studio will open with the extension installed.
+1. Asegurarse tener instalado[.NET Core SDK 3.1+](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+2. Abrir la solucion en Visual Studio 2017+
+3. Para ejecutar el sitio web, elegir CodeConverter.Web como el archivo de proyecto de inicio.
+4. Para ejecutar la extension de Visual Studio, elegir Vsix como el archivo de proyecto de inicio.
+   * Una nueva instancia de Visual Studio abrira con la extension instalada. 
