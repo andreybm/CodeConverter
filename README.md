@@ -11,7 +11,7 @@ Abrir la solución en Visual Studio.
 <ul>
 <li> Asegurarse que no se han confirmado cambios en la versión de control de sistema. De esta manera, sera mas sencillo ver el resultado de la conversión y descartar las partes no deseadas. </li>
 <li> Asegurarse que la solución compile para una máxima precisión de conversión.</li>
-<li>Dividir los archivos en un máximo de cinco mil lineas de código, usando clases parciales en caso de ser necesario. La razón por la cual se realiza dicha recomendación es debido a que la ejecución de dos archivos con cinco mil lineas de código cada uno se ejecuta mas rápido que un archivo de diez mil lineas de código. <\li>
+<li>Dividir los archivos en un máximo de cinco mil lineas de código, usando clases parciales en caso de ser necesario. La razón por la cual se realiza dicha recomendación es debido a que la ejecución de dos archivos con cinco mil lineas de código cada uno se ejecuta mas rápido que un archivo de diez mil lineas de código.</li>
 </ul>
 
 Para agregar la extensión de Visual Studio a nuestro IDE, se debe de descargar desde el Visual Studio Market Place en el siguiente sitio web https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter.
