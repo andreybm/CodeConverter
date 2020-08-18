@@ -9,7 +9,7 @@ Convert code from VB.NET to C# and vice versa using Roslyn - all free and open s
 Esta es una guía para instalar el proyecto \textit{CodeConverter} en el IDE Visual Studio.
 
 
-Para agregar la extensión de Visual Studio a nuestro IDE, se debe de descargar desde el Visual Studio Market Place en el siguiente sitio web \{https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter} como se muestra en la siguiente imagen:
+Para agregar la extensión de Visual Studio a nuestro IDE, se debe de descargar desde el Visual Studio Market Place en el siguiente sitio web https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter como se muestra en la siguiente imagen:
 
 <p>
 <img title="Selected text can be converted" alt="Selected text conversion context menu" src="https://github.com/icsharpcode/CodeConverter/raw/master/.github/img/vbToCsSelection.png" />
@@ -29,13 +29,5 @@ Posteriormente se abre la solución en Visual Studio 2017 o superior y se realiz
 4. To run the Visual Studio extension, set Vsix as the startup project
    * A new instance of Visual Studio will open with the extension installed
 
-##  History
-A spiritual successor of the code conversion within [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) and later part of [Refactoring Essentials](https://github.com/icsharpcode/RefactoringEssentials), the code converter was separated out to avoid difficulties with different Visual Studio and Roslyn versions.
 
-## More screenshots
-<p float="left">
-  <img src="https://github.com/icsharpcode/CodeConverter/raw/master/.github/img/solution.png" width="49%" />
-  <img src="https://github.com/icsharpcode/CodeConverter/raw/master/.github/img/vbToCsFile.png" width="49%" /> 
-  <img src="https://github.com/icsharpcode/CodeConverter/raw/master/.github/img/vbToCsProject.png" width="49%" /> 
-  <img src="https://github.com/icsharpcode/CodeConverter/raw/master/.github/img/csToVbProject.png" width="49%" /> 
-</p>
+
