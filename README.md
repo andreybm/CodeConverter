@@ -1,18 +1,12 @@
 # Code Converter [![Build Status](https://icsharpcode.visualstudio.com/icsharpcode-pipelines/_apis/build/status/icsharpcode.CodeConverter?branchName=master)](https://icsharpcode.visualstudio.com/icsharpcode-pipelines/_build?definitionId=2&statusFilter=succeeded&repositoryFilter=2&branchFilter=32)
 
-
-Convert code from VB.NET to C# and vice versa using Roslyn - all free and open source:
-* [Visual Studio extension](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter)
-* Command line `dotnet tool install ICSharpCode.CodeConverter.codeconv --global`
-* [Online snippet converter](https://codeconverter.icsharpcode.net/)
-
 Esta es una guía para instalar el proyecto \textit{CodeConverter} en el IDE Visual Studio.
 
 
 Para agregar la extensión de Visual Studio a nuestro IDE, se debe de descargar desde el Visual Studio Market Place en el siguiente sitio web https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter como se muestra en la siguiente imagen:
 
 <p>
-<img title="Selected text can be converted" alt="Selected text conversion context menu" src="https://github.com/icsharpcode/CodeConverter/raw/master/.github/img/vsmarketplace.PNG" />
+<img title="Selected text can be converted" alt="Selected text conversion context menu" src="https://github.com/icsharpcode/CodeConverter/raw/master/.github/img/vsmarketplace.PNG"/>
 </p>
 
 
